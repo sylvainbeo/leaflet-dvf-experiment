@@ -1,0 +1,7 @@
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "id": 1, "data1": 60, "data2": 20, "data3": 20, "geometry": {"type": "Point", "coordinates": [-0.693915193723887, 49.335420160287875]}}, 
+{"type": "Feature", "id": 2, "data1": 20, "data2": 40, "data3": 40, "geometry": {"type": "Point", "coordinates": [-0.051560582677864, 49.221863813489676]}}, 
+{"type": "Feature", "id": 3, "data1": 10, "data2": 70, "data3": 20, "geometry": {"type": "Point", "coordinates": [-0.449148235302091, 49.256560095632906]}}, 
+{"type": "Feature", "id": 4, "data1": 15, "data2": 25, "data3": 60, "geometry": {"type": "Point", "coordinates": [-0.478415659840455, 49.31164038376676]}}, 
+{"type": "Feature", "id": 5, "data1": 35, "data2": 45, "data3": 20, "geometry": {"type": "Point", "coordinates": [-0.704658842601847, 49.2752879941104]}} 
+]}
